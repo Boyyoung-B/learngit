@@ -3,3 +3,5 @@ this is the second line
 now i adding the third line
 this line is the fourth change
 test in 5th line 
+only add,no commit,6th line
+7th line
