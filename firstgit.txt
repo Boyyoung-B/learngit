@@ -1,2 +1,3 @@
 this is my fist git file
 this is the second line
+now i adding the third line
